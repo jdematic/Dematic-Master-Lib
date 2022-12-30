@@ -1,7 +1,7 @@
 //Set of date time functions to be used in projects
 //Created by: JWL
 //Date: 2022-12-30
-//Last modified: 2022/12/30 21:35:28
+//Last modified: 2022/12/30 21:48:49
 //Version: 0.0.1
 
 //function to get the current date
