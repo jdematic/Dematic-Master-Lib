@@ -1,7 +1,7 @@
 //Set of libraries functions to be used in projects
 //Created by: JWL
 //Date: 2022-12-30
-//Last modified: 2022/12/31 00:05:04
+//Last modified: 2023/01/02 00:31:40
 //Version: 0.0.1
 
 //import the date time functions
@@ -14,7 +14,7 @@ const stringManipulation = require("./StringManipulation");
 const objectTest = require("./objectTest");
 
 //import the mysql functions
-const mysql = require("./mysql");
+const mysql = require("./mysqlDB");
 
 //export functions
 module.exports = {
