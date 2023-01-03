@@ -1,7 +1,7 @@
 //Set of console functions to be used in projects
 //Created by: JWL
 //Date: 2022-12-30
-//Last modified: 2023/01/03 15:32:32
+//Last modified: 2023/01/03 15:35:32
 //Version: 0.0.1
 
 //log out a message to the console with a timestamp always
@@ -22,6 +22,6 @@ function logDebug(message) {
 
 //export the functions
 module.exports = {
-  logAlways: logAlways,
+  log: log,
   logDebug: logDebug,
 };
